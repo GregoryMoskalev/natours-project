@@ -25,6 +25,9 @@ $gutter-vertival: 8rem;
 $gutter-horizontal: 6rem;
 
 //SHADOW
-$shadow-big: 0 1.5rem 4rem rgba($color-black, .15);
+$shadow-big: 0 1.5rem 4rem rgba($color-black, .2);
 $shadow-medium: 0 1rem 2rem rgba($color-black, .2);
 $shadow-small: 0 .5rem 1rem rgba($color-black, .2);
+
+//BORDER
+$default-border-radius: 3px;
